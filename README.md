@@ -10,6 +10,8 @@
 
 **After click:** Open [`index.html`](index.html) (or the GitHub Pages URL) → How to use → EXAMPLE week → pick a 2027 month → open a week spread.
 
+**Intent page (method + CTA):** [How to plan your week with ADHD using a hyperlinked digital planner](https://sirmem.github.io/freelancer-money-sheets/how-to-plan-your-week-with-adhd-hyperlinked-planner.html)
+
 ---
 
 ## Live / browse
@@ -20,6 +22,7 @@
 | GitHub Pages (planner) | https://sirmem.github.io/adhd-2027-hyperlinked-planner-sample/ |
 | EXAMPLE week | https://sirmem.github.io/adhd-2027-hyperlinked-planner-sample/example/filled-week.html |
 | Trust hub | https://sirmem.github.io/freelancer-money-sheets/ |
+| Intent page (week planning method) | https://sirmem.github.io/freelancer-money-sheets/how-to-plan-your-week-with-adhd-hyperlinked-planner.html |
 
 Local: clone, then open `index.html` in any browser (keep the folder structure).
 
